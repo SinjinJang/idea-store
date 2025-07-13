@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-07-13T08:59:03+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">My Awesome Idea</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">나만의 커스텀 키보드</title><link href="http://localhost:4000/2025/07/13/custom-keyboard.html" rel="alternate" type="text/html" title="나만의 커스텀 키보드" /><published>2025-07-13T00:00:00+09:00</published><updated>2025-07-13T00:00:00+09:00</updated><id>http://localhost:4000/2025/07/13/custom-keyboard</id><content type="html" xml:base="http://localhost:4000/2025/07/13/custom-keyboard.html"><![CDATA[<h2 id="제품-소개">제품 소개</h2>
+
+<p>기성품 키보드에 만족하지 못하는 분들을 위해, ‘커스텀 키보드’는 개인의 취향과 사용 습관에 맞춰 부품을 직접 선택하고 조립할 수 있는 새로운 경험을 제공합니다. 자신만의 레이아웃을 설계하고, 스위치와 키캡 등을 원하는 대로 조합하여 완벽한 타건감과 디자인을 구현해보세요.</p>
+
+<h2 id="이런-문제-없으셨나요">이런 문제, 없으셨나요?</h2>
+
+<p>오랜 시간 키보드를 사용하면서 손목과 팔목에 통증을 느끼거나, 특정 키의 위치가 불편해 잦은 오타를 경험하신 적은 없으신가요? 혹은 키보드의 고정된 기능 때문에 원하는 대로 키를 설정하지 못해 답답함을 느끼셨나요?</p>
+
+<h2 id="주요-특징">주요 특징</h2>
+
+<ul>
+  <li><strong>자유로운 레이아웃 설계:</strong> 자신에게 꼭 맞는 키 배열을 직접 디자인할 수 있습니다.</li>
+  <li><strong>인체 공학적 디자인:</strong> 양손 분할, 각도 조절 등을 통해 손목과 팔목의 부담을 줄여 편안한 타이핑 환경을 조성할 수 있습니다.</li>
+  <li><strong>완벽한 개인화:</strong> 스위치 종류, 키캡 재질 및 디자인 등 다양한 부품을 원하는 대로 선택할 수 있습니다.</li>
+  <li><strong>최상의 타건감:</strong> 다양한 스위치(청축, 갈축, 적축, 흑축 등)를 직접 체험하고 선택하여 자신에게 맞는 최적의 타건감을 찾을 수 있습니다.</li>
+  <li><strong>강력한 펌웨어 지원:</strong> QMK, VIAL과 같은 오픈소스 펌웨어를 통해 모든 키의 기능을 원하는 대로 프로그래밍하고 매핑을 변경할 수 있습니다.</li>
+  <li><strong>조립의 즐거움:</strong> 직접 키보드를 조립하며 내부 구조를 이해하고, DIY의 즐거움을 느낄 수 있습니다.</li>
+</ul>]]></content><author><name></name></author><summary type="html"><![CDATA[세상에 단 하나뿐인, 당신만을 위한 키보드를 만들어보세요.]]></summary></entry><entry><title type="html">스마트 수건 걸이</title><link href="http://localhost:4000/2025/07/13/smart-hanger.html" rel="alternate" type="text/html" title="스마트 수건 걸이" /><published>2025-07-13T00:00:00+09:00</published><updated>2025-07-13T00:00:00+09:00</updated><id>http://localhost:4000/2025/07/13/smart-hanger</id><content type="html" xml:base="http://localhost:4000/2025/07/13/smart-hanger.html"><![CDATA[<h2 id="제품-소개">제품 소개</h2>
+
+<p>‘스마트 수건 걸이’는 기존에 사용하시던 행거에 간편하게 덧붙여 사용하는 새로운 개념의 제품입니다. 
+수건이 겹쳐지는 부분을 물리적으로 넓혀 공기 순환을 극대화함으로써, 젖은 수건을 훨씬 빠르고 위생적으로 건조할 수 있도록 돕습니다.</p>
+
+<h2 id="이런-문제-없으셨나요">이런 문제, 없으셨나요?</h2>
+
+<p>샤워 후 축축한 수건을 걸어두면 겹치는 부분 때문에 잘 마르지 않습니다. 이로 인해 세균이 번식하기 쉽고, 
+오래되면 눅눅한 냄새가 나기도 합니다. 특히 장마철이나 습한 날에는 더욱 심해지죠.</p>
+
+<h2 id="스마트한-해결책">스마트한 해결책</h2>
+
+<p>저희 제품은 수건이 반으로 접히는 지점의 간격을 넓혀주는 독창적인 디자인을 채택했습니다. 
+이를 통해 공기가 원활하게 통과하여 수건 전체가 균일하고 빠르게 마릅니다. 더 이상 덜 마른 수건의 찝찝함을 느끼지 않으셔도 됩니다.</p>
+
+<h2 id="주요-특징">주요 특징</h2>
+
+<ul>
+  <li><strong>빠른 건조 및 위생:</strong> 겹침 현상을 방지하여 세균 번식 억제 및 냄새 제거에 효과적입니다.</li>
+  <li><strong>간편한 설치:</strong> 별도의 도구 없이 기존 행거에 끼우기만 하면 바로 사용할 수 있습니다.</li>
+  <li><strong>높은 호환성:</strong> 대부분의 표준 규격 수건 걸이에 손쉽게 부착할 수 있습니다.</li>
+  <li><strong>공간 효율성:</strong> 추가적인 공간을 차지하지 않으면서 건조 효율을 극대화합니다.</li>
+</ul>]]></content><author><name></name></author><summary type="html"><![CDATA[젖은 수건, 이제 겹치지 말고 넓게 말리세요!]]></summary></entry></feed>
